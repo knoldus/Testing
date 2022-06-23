@@ -1,0 +1,10 @@
+{
+  "simulation": "anfknda",
+  "simulationId": "anfknda",
+  "start": 1646722395641,
+  "description": "b",
+  "scenarios": ["anfknda"],
+  "assertions": [
+
+  ]
+}

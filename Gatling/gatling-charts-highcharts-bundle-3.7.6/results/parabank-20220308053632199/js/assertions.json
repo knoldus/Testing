@@ -1,0 +1,10 @@
+{
+  "simulation": "Parabank",
+  "simulationId": "parabank",
+  "start": 1646717792199,
+  "description": "PArabank",
+  "scenarios": ["Parabank"],
+  "assertions": [
+
+  ]
+}
